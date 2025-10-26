@@ -1,0 +1,1 @@
+# ejercicios-operadores-aritmeticos-40-python
